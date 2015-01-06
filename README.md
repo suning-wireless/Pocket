@@ -15,3 +15,7 @@
 ## 工具类
 
 - [智图](http://image.tencent.com/) 图片在线压缩
+
+## 好玩
+
+- [POP! crackART](http://www.goodboydigital.com/pixijs/cracker/) 爆炸糖果
