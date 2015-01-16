@@ -3,7 +3,7 @@
 
 ## 收录日常发现的好的文章和资源
 
-- [文章列表](https://github.com/suning-wireless/Pocket/issues)
+- [收录文章列表 >>>>>>>>>>>](https://github.com/suning-wireless/Pocket/issues)
 
 
 ## 参考类
