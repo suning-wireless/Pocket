@@ -15,6 +15,7 @@
 ## 工具类
 
 - [智图](http://image.tencent.com/) 图片在线压缩
+- [iSparta－PNG压缩与格式转换工具](http://isparta.github.io/index.html)
 
 ## 好玩
 
