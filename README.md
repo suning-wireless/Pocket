@@ -1,9 +1,7 @@
 稍后阅读
 ======
 
-## 收录日常发现的好的文章和资源
-
-- [收录文章列表 >>>>>>>>>>>一定要看，看了不后悔 >>>>>>>>>>>](https://github.com/suning-wireless/Pocket/issues)
+## [收录日常发现的好的文章和资源>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>](https://github.com/suning-wireless/Pocket/issues)
 
 
 ## 参考类
