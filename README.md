@@ -38,6 +38,7 @@
 幻灯/切换
 - [qiqiboy/pageSwitch](https://github.com/qiqiboy/pageSwitch)
 - [nolimits4web/Swiper](https://github.com/nolimits4web/Swiper)
+- [H5fullscreenpage.js](http://lvming6816077.github.io/H5FullscreenPage/)
 
 动画
 - [rstacruz/jquery.transit](https://github.com/rstacruz/jquery.transit)
