@@ -47,3 +47,7 @@
 
 相册
 - [支持各种手势操作的 dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
+
+优秀的 Github 
+
+[Baidu EFE team](https://github.com/ecomfe?page=5)
